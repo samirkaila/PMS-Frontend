@@ -1,0 +1,630 @@
+@media (min-width: 1600px) and (max-width: 1850px) {
+
+.task-listing ul  li .text-1 { width: 50px;}
+.task-listing ul  li .text-2 { width:auto; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; padding:0 15px 0 0;}
+.task-listing ul  li .text-3 { width: 220px;}
+.task-listing ul  li .text-4 { width: 200px;}
+.task-listing ul  li .text-5 { width: 230px;}
+.task-listing ul  li .text-6 { width:200px;}
+.task-listing ul  li .text-7 { width:200px;}
+.task-listing ul  li .text-8 { width:100px;}
+
+}
+
+@media (min-width: 1440px) and (max-width: 1599px) {
+
+/*============ Header Start ============*/
+.main_wapper-inner { padding:175px 0 0 0;}
+.header-outer { min-height:100px; padding:20px 40px 20px 40px;}
+.header-bottom-outer { padding:40px 0 0 0;}
+.header-nav ul li a { min-width:180px; padding:0 12px 25px;}
+.header-admin .header-bottom-outer { padding:18px 0 0 0;}
+.header-bottom-outer .header-btnbox { margin-top:5px;}
+/*============ Header End ============*/
+
+/*============ Deshboard My-Tasks Page Start ============*/
+.task-box { padding:30px 20px 28px 20px;}
+.current-box { padding:30px 20px 28px 20px;}
+.task-listing ul.head-task li { padding:20px 25px;}
+.task-listing ul.body-task li .tasklink { padding:15px 25px;}
+.task-listing ul li .text-1 { width:50px;}
+.task-listing ul li .text-3 { width:170px;}
+.task-listing ul li .text-4 { width:150px;}
+.task-listing ul li .text-5 { width:190px;}
+.task-listing ul li .text-6 { width:190px;}
+.task-listing ul li .text-7 { width:190px;}
+.task-listing ul li .text-8 { width:100px;}
+.dataTables_wrapper .dataTables_length label { font-size:15px;}
+.dataTables_wrapper .dataTables_length .custom-select { font-size:15px;}
+.dataTables_wrapper .dataTables_filter label { font-size:15px;}
+.dataTables_wrapper .dataTables_filter .form-control { font-size:15px;}
+.dataTables_wrapper .dataTables_info { font-size:15px;}
+.dataTables_wrapper .dataTables_paginate .pagination .paginate_button .page-link { font-size:15px;}
+table.dataTable thead > tr > th { font-size:15px;}
+table.dataTable tbody > tr > td { font-size:15px;}
+table.dataTable tbody > tr > td .text { max-width:300px;}
+/*============ Deshboard My-Tasks Page End ============*/
+
+/*============ Deshboard My-Projects Page Start ============*/
+.project-box { padding:30px 20px;}
+/*============ Deshboard My-Projects Page End ============*/
+
+/*============ Deshboard-Admin Page Start ============*/
+.deshboard-adminside .deshboard-box { padding:30px 20px;}
+.deshboard-adminside .deshboard-box h4 { font-size:23px; margin:0 0 20px 0;}
+/*============ Deshboard-Admin Page End ============*/
+
+/*============ View-Task-Sidebar Start ============*/
+.viewtask-sidebar { max-width:850px;}
+.viewtask-sidebar .viewtask-sidebar-block { padding:40px 40px;}
+.viewtask-sidebar .vtsidebar-title h3 { font-size:22px;}
+/*============ View-Task-Sidebar End ============*/
+
+/* Add-Task-Modal Start */
+.task_modal .modal-body { padding: 70px 20px; }
+.task_modal .modal-dialog-centered { max-width: 820px; }
+/* Add-Task-Modal End */
+
+/* Add New Task Start */
+.add_task_modal .modal-dialog { margin: 50px 80px;min-height: calc(100% - 100px); }
+.form_add_tasks { padding: 20px 0 0 0; }
+.wrap_date_row { margin: 0 -25px; }
+.wrap_date_row .wrap_date_col { padding: 0 25px; }
+.input_wrap textarea.input_field { height: 250px; }
+.add_task_modal .modal-body { padding: 50px 50px 40px 50px; }
+/* Add New Task End */
+
+/*============ Add-New-User Page Start ============*/
+.deshboard-userside .userbox { padding:30px 20px;}
+.deshboard-userside .userbox h4 { font-size:23px; margin:0 0 20px 0;}
+/*============ Add-New-User Page End ============*/
+
+}
+
+@media (min-width: 1200px) and (max-width: 1439px) {
+
+/*============ Header Start ============*/
+.main_wapper-inner { padding:160px 0 0 0;}
+.header-outer { min-height:100px; padding:20px 40px 20px 40px;}
+.header-outer-top .login-area { padding:0 40px 0 0;}
+.header-outer-top .login-area .login-area-inner .nmae { font-size:18px;}
+.header-outer-top .logout-btn { min-width:121px; padding:0 0 0 40px;}
+.header-bottom-outer { padding:30px 0 0 0;}
+.header-nav ul li a { min-width:180px; padding:0 12px 20px;}
+.header-admin .header-bottom-outer { padding:8px 0 0 0;}
+.header-bottom-outer .header-btnbox { margin:8px 121px 0 0;}
+/*============ Header End ============*/
+
+/*============ Deshboard My-Tasks Page Start ============*/
+.admin-deshboard-top .row { margin:0 -15px;}
+.admin-deshboard-top .row > [class*="col-"] { padding:0 15px;}
+.task-box { padding:20px 20px;}
+.task-box h4 { font-size:22px; padding:0 0 25px;}
+.task-box .task-sub-box .count { font-size:28px;}
+.current-box { padding:20px 20px;}
+.current-box .current-head h4 { font-size:22px;}
+.current-box .time-box > span { font-size:22px; line-height:1;}
+.current-box .comment { font-size:16px; line-height:26px;}
+.task-listing ul.head-task li { font-size:14px; line-height:22px; padding:15px 20px;}
+.task-listing ul.body-task li { font-size:14px; line-height:22px;}
+.task-listing ul.body-task li .tasklink { padding:15px 20px;}
+.task-listing ul li .text-1 { width:40px;}
+.task-listing ul li .text-3 { width:140px;}
+.task-listing ul li .text-4 { width:130px;}
+.task-listing ul li .text-5 { width:140px;}
+.task-listing ul li .text-6 { width:140px;}
+.task-listing ul li .text-7 { width:140px;}
+.task-listing ul li .text-8 { width:100px;}
+.dataTables_wrapper .dataTables_length label { font-size:15px;}
+.dataTables_wrapper .dataTables_length .custom-select { font-size:15px;}
+.dataTables_wrapper .dataTables_filter label { font-size:15px;}
+.dataTables_wrapper .dataTables_filter .form-control { font-size:15px;}
+.dataTables_wrapper .dataTables_info { font-size:15px;}
+.dataTables_wrapper .dataTables_paginate .pagination .paginate_button .page-link { font-size:15px;}
+table.dataTable thead > tr > th { font-size:15px;}
+table.dataTable tbody > tr > td { font-size:15px;}
+table.dataTable tbody > tr > td .text { max-width:300px;}
+/*============ Deshboard My-Tasks Page End ============*/
+
+/*============ Deshboard My-Projects Page Start ============*/
+.project-details-listing .row { margin:0 -15px;}
+.project-details-listing .row > [class*="col-"] { padding:40px 15px 0 15px;}
+.project-box { padding:20px 20px;}
+/*============ Deshboard My-Projects Page End ============*/
+
+/*============ Deshboard-Admin Page Start ============*/
+.deshboard-adminside .deshboard-row { margin:0px -15px;}
+.deshboard-adminside .deshboard-row .deshboard-col { padding:0px 15px;}
+.deshboard-adminside .deshboard-box { padding:20px 20px;}
+.deshboard-adminside .deshboard-box h4 { font-size:18px; margin:0 0 20px 0;}
+.deshboard-adminside .deshboard-box .count-num { font-size:28px;}
+/*============ Deshboard-Admin Page End ============*/
+
+/*============ View-Task-Sidebar Start ============*/
+.viewtask-sidebar { max-width:850px;}
+.viewtask-sidebar .viewtask-sidebar-block { padding:40px 40px;}
+.viewtask-sidebar .vtsidebar-title h3 { font-size:22px;}
+/*============ View-Task-Sidebar End ============*/
+
+/* Add-Task-Modal Start */
+.task_modal .modal-body { padding: 50px 20px; }
+.task_modal .modal-dialog-centered { max-width: 700px; }
+.choice_task_main .choice_task_blk a { min-width: 240px; }
+/* Add-Task-Modal End */
+
+/* Add New Task Start */
+.add_task_modal .modal-dialog { margin: 50px 50px;min-height: calc(100% - 100px); }
+.form_add_tasks { padding: 20px 0 0 0; }
+.wrap_date_row { margin: 0 -25px; }
+.wrap_date_row .wrap_date_col { padding: 0 25px; }
+.input_wrap textarea.input_field { height: 200px; }
+.add_task_modal .modal-body { padding: 50px 50px 40px 50px; }
+.submit_wrap .submit_button { font-size: 16px; } 
+.add_task_modal h3 { font-size: 20px; }
+/* Add New Task End */
+
+/*============ Add-New-User Page Start ============*/
+.deshboard-userside .row { margin:0px -15px;}
+.deshboard-userside .row > [class*="col-"] { padding:0px 15px;}
+.deshboard-userside .userbox { padding:20px 20px;}
+.deshboard-userside .userbox h4 { font-size:23px; margin:0 0 20px 0;}
+.deshboard-userside .userbox .count-num { font-size:28px;}
+/*============ Add-New-User Page End ============*/
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/*============ Header Start ============*/
+.main_wapper-inner { padding:140px 0 0 0;}
+.header-outer { min-height:140px; padding:20px 30px 0 30px;}
+.header-outer-top .login-area { min-width:270px; padding:0 30px 0 0;}
+.header-outer-top .login-area .login-area-inner .nmae { font-size:18px;}
+.header-outer-top .logout-btn { min-width:111px; padding:0 0 0 30px;}
+.header-bottom-outer { padding:20px 0 0 0;}
+.header-nav ul li a { min-width:160px; font-size:16px; line-height:1.2; padding:0 12px 20px;}
+.header-admin .header-bottom-outer { padding:8px 0 0 0;}
+.header-admin .header-bottom-outer .header-nav { margin:12px 0 0 0;}
+.header-bottom-outer .header-btnbox { margin:4px 0 0 0;}
+.header-bottom-outer .header-btnbox .h-button { font-size:16px; padding:10px 20px;}
+/*============ Header End ============*/
+
+/*============ Deshboard My-Tasks Page Start ============*/
+.admin-deshboard { padding:40px 30px;}
+.admin-deshboard-top .row { margin:0 -15px;}
+.admin-deshboard-top .row > [class*="col-"] { padding:0 15px;}
+.task-box { padding:20px 20px;}
+.task-box h4 { font-size:20px; padding:0 0 25px;}
+.task-box .task-sub-box .count { font-size:28px;}
+.current-box { padding:20px 20px;}
+.current-box .current-head h4 { font-size:20px;}
+.current-box .time-box > span { font-size:18px; line-height:1; padding:0 12px 0 0;}
+.current-box .comment { font-size:16px; line-height:24px;}
+.task-listing ul.head-task li { font-size:14px; line-height:22px; padding:15px 20px;}
+.task-listing ul.body-task li { font-size:14px; line-height:22px;}
+.task-listing ul.body-task li .tasklink { padding:15px 20px;}
+.task-listing ul li .text-1 { width:40px;}
+.task-listing ul li .text-3 { width:140px;}
+.task-listing ul li .text-4 { width:120px;}
+.task-listing ul li .text-5 { width:130px;}
+.task-listing ul li .text-6 { width:130px;}
+.task-listing ul li .text-7 { width:130px;}
+.task-listing ul li .text-8 { width:90px;}
+.dataTables_wrapper .dataTables_length label { font-size:15px;}
+.dataTables_wrapper .dataTables_length .custom-select { font-size:15px;}
+.dataTables_wrapper .dataTables_filter label { font-size:15px;}
+.dataTables_wrapper .dataTables_filter .form-control { font-size:15px;}
+.dataTables_wrapper .dataTables_info { font-size:15px;}
+.dataTables_wrapper .dataTables_paginate .pagination .paginate_button .page-link { font-size:15px;}
+table.dataTable thead > tr > th { font-size:15px;}
+table.dataTable tbody > tr > td { font-size:15px;}
+table.dataTable tbody > tr > td .text { max-width:300px;}
+/*============ Deshboard My-Tasks Page End ============*/
+
+/*============ Deshboard My-Projects Page Start ============*/
+.project-details-listing .row { margin:0 -15px;}
+.project-details-listing .row > [class*="col-"] { padding:40px 15px 0 15px;}
+.project-box { padding:20px 20px;}
+/*============ Deshboard My-Projects Page End ============*/
+
+/*============ Deshboard-Admin Page Start ============*/
+.deshboard-adminside .deshboard-row { margin:0px -15px;}
+.deshboard-adminside .deshboard-row .deshboard-col { padding:0px 15px;}
+.deshboard-adminside .deshboard-box { padding:20px 20px;}
+.deshboard-adminside .deshboard-box h4 { font-size:16px; min-height:32px; margin:0 0 20px 0;}
+.deshboard-adminside .deshboard-box .count-num { font-size:28px;}
+/*============ Deshboard-Admin Page End ============*/
+
+/*============ View-Task-Sidebar Start ============*/
+.viewtask-sidebar { max-width:800px;}
+.viewtask-sidebar .viewtask-sidebar-block { padding:30px 30px;}
+.viewtask-sidebar .vtsidebar-topbar { padding:0 0 30px 0;}
+.viewtask-sidebar .vtsidebar-title { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-title h3 { font-size:20px;}
+.viewtask-sidebar .vtsidebar-assigndate { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-deadline { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-estimated { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-categories { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-taskdetail { padding:20px 0 0 0;}
+.viewtask-sidebar .vtsidebar-taskdetail .td-desc .descbox { padding:0 0 15px 0;}
+.viewtask-sidebar .vtsidebar-attached { padding:20px 0 10px 0;}
+.viewtask-sidebar .vtsidebar-comments { padding:20px 0 0 0;}
+/*============ View-Task-Sidebar End ============*/
+
+/* Add-Task-Modal Start */
+.task_modal .modal-body { padding: 50px 20px; }
+.task_modal .modal-dialog-centered { max-width: 700px; }
+.choice_task_main .choice_task_blk a { min-width: 240px; }
+/* Add-Task-Modal End */
+
+/* Add New Task Start */
+.add_task_modal .modal-dialog { margin: 50px 50px;min-height: calc(100% - 100px); }
+.form_add_tasks { padding: 20px 0 0 0; }
+.wrap_date_row { margin: 0 -15px; }
+.wrap_date_row .wrap_date_col { padding: 0 15px; }
+.input_wrap textarea.input_field { height: 200px; }
+.add_task_modal .modal-body { padding: 50px 50px 40px 50px; }
+.submit_wrap .submit_button { font-size: 16px; } 
+.add_task_modal h3 { font-size: 20px; }
+.task_form form > .row { margin: 0 -15px; }
+.task_form form > .row > [class^="col-"] { padding: 15px; }
+.file_list ,
+.file_input .file_label { margin: 0 10px 10px 0 !important; }
+/* Add New Task End */
+
+/*============ Add-New-User Page Start ============*/
+.deshboard-userside .row { margin:0px -15px;}
+.deshboard-userside .row > [class*="col-"] { padding:0px 15px;}
+.deshboard-userside .userbox { padding:20px 20px;}
+.deshboard-userside .userbox h4 { font-size:20px; margin:0 0 20px 0;}
+.deshboard-userside .userbox .count-num { font-size:28px;}
+/*============ Add-New-User Page End ============*/
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+/*============ Header Start ============*/
+.main_wapper-inner { padding:120px 0 0 0;}
+.header-outer { min-height:120px; padding:20px 20px 0 20px;}
+.header-outer-top .login-area { min-width:240px; padding:0 20px 0 0;}
+.header-outer-top .login-area .icon img { max-width:40px; margin:0 12px 0 0;}
+.header-outer-top .login-area .login-area-inner .login-as { font-size:14px; line-height:1; padding:0 0 4px;}
+.header-outer-top .login-area .login-area-inner .nmae { font-size:16px; line-height:1.2;}
+.search-header .search-box .search-input { background-position:15px center; padding:8px 15px 8px 50px;}
+.header-outer-top .logout-btn { min-width:101px; padding:0 0 0 20px;}
+.header-bottom-outer { padding:20px 0 0 0;}
+.header-nav ul li a { min-width:1px; font-size:16px; line-height:1.2; padding:0 12px 15px;}
+.header-nav ul li a i { margin:0 8px 0 0;}
+.header-nav ul li a i svg { width:22px; height:auto;}
+.header-admin .header-bottom-outer { padding:8px 0 0 0;}
+.header-admin .header-bottom-outer .header-nav { margin:12px 0 0 0;}
+.header-bottom-outer .header-btnbox { margin:2px 0 0 0;}
+.header-bottom-outer .header-btnbox .h-button { font-size:15px; line-height:1; padding:10px 15px;}
+/*============ Header End ============*/
+
+/*============ Login Page Start ============*/
+.login-outer .login-title h1 { font-size:36px; line-height:1.2; padding:30px 0 50px;}
+/*============ Login Page End ============*/
+
+/*============ Deshboard My-Tasks Page Start ============*/
+.admin-deshboard { padding:30px 20px;}
+.admin-deshboard-top .row { margin:0 -15px;}
+.admin-deshboard-top .row > [class*="col-"] { -ms-flex:0 0 100%; flex:0 0 100%; max-width:100%; margin:0 0 30px 0; padding:0 15px;}
+.task-box { padding:20px 20px;}
+.task-box h4 { font-size:22px; padding:0 0 25px;}
+.task-box .task-sub-box .count { font-size:28px;}
+.current-box { padding:20px 20px;}
+.current-box .current-head h4 { font-size:22px;}
+.current-box .time-box > span { font-size:22px; line-height:1; padding:0 12px 0 0;}
+.current-box .comment { font-size:16px; line-height:24px;}
+.task-listing { margin:0px;}
+.task-listing ul.head-task { display:none;}
+.task-listing ul.body-task li { font-size:14px; line-height:22px; border:none;}
+.task-listing ul.body-task li:nth-of-type(even) { background:#f7faff;}
+.task-listing ul.body-task li .tasklink { -ms-flex-direction:column; flex-direction:column; padding:0px;}
+.task-listing ul li .text-1,
+.task-listing ul li .text-2,
+.task-listing ul li .text-3,
+.task-listing ul li .text-4,
+.task-listing ul li .text-5,
+.task-listing ul li .text-6,
+.task-listing ul li .text-7,
+.task-listing ul li .text-8 { width:100%; border-bottom:1px solid #ECEEF5; padding:10px 20px;}
+.task-listing ul li .text-1:before,
+.task-listing ul li .text-2:before,
+.task-listing ul li .text-3:before,
+.task-listing ul li .text-4:before,
+.task-listing ul li .text-5:before,
+.task-listing ul li .text-6:before,
+.task-listing ul li .text-7:before,
+.task-listing ul li .text-8::before { content:attr(data-label); width:100%; display:block; font-family: 'Montserrat'; font-size:14px; color:#858BA0; font-weight:600; line-height:1; margin:0 0 5px 0;}
+.dataTables_wrapper .dataTables_length label { font-size:14px;}
+.dataTables_wrapper .dataTables_length .custom-select { font-size:14px;}
+.dataTables_wrapper .dataTables_filter label { font-size:14px;}
+.dataTables_wrapper .dataTables_filter .form-control { font-size:14px;}
+.dataTables_wrapper .dataTables_info { font-size:14px;}
+.dataTables_wrapper .dataTables_paginate .pagination .paginate_button .page-link { font-size:14px;}
+table.dataTable thead > tr > th { font-size:14px; padding:15px 15px;}
+table.dataTable tbody > tr > td { height:48px; font-size:14px; padding:10px 15px;}
+table.dataTable tbody > tr > td .text { max-width:300px;}
+table.dataTable tbody > tr.child ul.dtr-details { white-space:normal;}
+table.dataTable tbody > tr.child ul.dtr-details li { padding:10px 15px 10px 15px !important;}
+table.dataTable tbody > tr.child ul.dtr-details li .dtr-title { width:100%; font-size:14px; margin:0 0 5px 0;}
+table.dataTable tbody > tr.child ul.dtr-details li .dtr-data { width:100%; font-size:14px;}
+/*============ Deshboard My-Tasks Page End ============*/
+
+/*============ Deshboard My-Projects Page Start ============*/
+.project-details-listing .row { margin:0 -15px;}
+.project-details-listing .row > [class*="col-"] { -ms-flex:0 0 100%; flex:0 0 100%; max-width:100%; margin:0 0 30px 0; padding:0 15px;}
+.project-box { padding:20px 20px;}
+/*============ Deshboard My-Projects Page End ============*/
+
+/*============ Deshboard-Admin Page Start ============*/
+.deshboard-adminside .deshboard-row { margin:0px -15px;}
+.deshboard-adminside .deshboard-row .deshboard-col { width:33.33333%; margin:0 0 30px 0; padding:0px 15px;}
+.deshboard-adminside .deshboard-box { padding:20px 20px;}
+.deshboard-adminside .deshboard-box h4 { font-size:20px; margin:0 0 20px 0;}
+.deshboard-adminside .deshboard-box .count-num { font-size:28px;}
+/*============ Deshboard-Admin Page End ============*/
+
+/*============ View-Task-Sidebar Start ============*/
+.viewtask-sidebar { max-width:650px;}
+.viewtask-sidebar .viewtask-sidebar-block { padding:30px 30px;}
+.viewtask-sidebar .vtsidebar-topbar { padding:0 0 30px 0;}
+.viewtask-sidebar .vtsidebar-topbar .timebar .text { font-size:20px;}
+.viewtask-sidebar .vtsidebar-title { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-title h3 { font-size:20px;}
+.viewtask-sidebar .vtsidebar-assigndate { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-deadline { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-estimated { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-categories { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-categories .cat-tags { font-size:16px;}
+.viewtask-sidebar .vtsidebar-taskdetail { padding:20px 0 0 0;}
+.viewtask-sidebar .vtsidebar-taskdetail .td-desc .descbox { padding:0 0 15px 0;}
+.viewtask-sidebar .vtsidebar-taskdetail .td-desc .descbox p { font-size:16px;}
+.viewtask-sidebar .vtsidebar-taskdetail .td-desc .descbox ul li { font-size:16px;}
+.viewtask-sidebar .vtsidebar-attached { padding:20px 0 10px 0;}
+.viewtask-sidebar .vtsidebar-comments { padding:20px 0 0 0;}
+/*============ View-Task-Sidebar End ============*/
+
+/* Add-Task-Modal Start */
+.task_modal .modal-body { padding: 50px 20px; }
+.task_modal .modal-dialog-centered { max-width: 700px; }
+.choice_task_main .choice_task_blk a { min-width: 240px; }
+/* Add-Task-Modal End */
+
+/* Add New Task Start */
+.add_task_modal .modal-dialog { margin: 20px;min-height: calc(100% - 40px); }
+.form_add_tasks { padding: 20px 0 0 0; }
+.wrap_date_row { margin: 0 -15px; }
+.wrap_date_row .wrap_date_col { padding: 0 15px; }
+.input_wrap textarea.input_field { height: 200px; }
+.add_task_modal .modal-body { padding: 30px; }
+.submit_wrap .submit_button { font-size: 16px; } 
+.add_task_modal h3 { font-size: 20px; }
+.task_form form > .row { margin: 0 -15px; }
+.task_form form > .row > [class^="col-"] { padding: 15px; -ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%; }
+.file_list ,
+.file_input .file_label { margin: 0 10px 10px 0 !important; }
+/* Add New Task End */
+
+/*============ User-Profile Page Start ============*/
+.user-profile-title { margin:0 0 20px 0;}
+.user-profile-title h1 { font-size:26px;}
+.user-profile-main { padding:30px 20px;}
+.user-profile-left { width:100%;}
+.user-profile-form { width:100%; border-top:1px solid #e5e5e5; border-left:none; margin:30px 0 0 0; padding:30px 0 0 0;}
+/*============ User-Profile Page End ============*/
+
+/*============ Add-New-User Page Start ============*/
+.deshboard-userside .row { margin:0px -15px;}
+.deshboard-userside .row > [class*="col-"] { margin:0 0 30px 0; padding:0px 15px;}
+.deshboard-userside .userbox { padding:20px 20px;}
+.deshboard-userside .userbox h4 { font-size:20px; margin:0 0 20px 0;}
+.deshboard-userside .userbox .count-num { font-size:28px;}
+/*============ Add-New-User Page End ============*/
+
+}
+
+@media (max-width: 767px) {
+
+/*============ Header Start ============*/
+.main_wapper-inner { padding:65px 0 0 0;}
+.header-outer { min-height:65px; border-bottom:1px solid #ECEEF5; padding:12px 15px;}
+.header-outer-top { flex-wrap:wrap; justify-content:space-between;}
+.header-outer-top .login-area { width:200px; min-width:1px; padding:0 20px 0 0;}
+.header-outer-top .login-area .icon img { max-width:40px; margin:0 12px 0 0;}
+.header-outer-top .login-area .login-area-inner { overflow:hidden;}
+.header-outer-top .login-area .login-area-inner .login-as { font-size:14px; line-height:1; padding:0 0 4px;}
+.header-outer-top .login-area .login-area-inner .nmae { font-size:16px; line-height:1.2; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.header-outer-top .logout-btn { min-width:1px; padding:0px; margin-left:auto;}
+.menu-toggler { display:block; margin:0 0 0 20px;}
+.header-bottom-outer { width:100%; height:calc(100vh - 65px); overflow-y:auto; -webkit-overflow-scrolling:touch; background:#FFFFFF; position:fixed; top:65px; left:0px; z-index:999; opacity:0; visibility:hidden; -webkit-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out; margin:0px !important; padding:25px 20px !important;}
+.header-bottom-outer.open { opacity:1; visibility:visible;}
+.search-header { margin:0 0 15px 0; padding:0px;}
+.search-header .search-box .search-input { background-position:15px center; border-radius:6px; padding:8px 15px 8px 50px;}
+.header-nav { width:100%; margin:0px !important; padding:0px !important;}
+.header-nav ul { flex-direction: column;}
+.header-nav ul li { width:100%; margin:0; padding:0;}
+.header-nav ul li a { min-width:100%; justify-content:flex-start; font-size:16px; line-height:1.2; padding:15px 0px;}
+.header-nav ul li a::after { background:#858BA0; opacity:1;}
+.header-nav ul li.active a::after { background:#0057FF;}
+.header-nav ul li a i { margin:0 10px 0 0;}
+.header-nav ul li a i svg { width:26px; height:auto;}
+.header-admin .header-bottom-outer { -ms-flex-wrap:nowrap; flex-wrap:nowrap; -ms-flex-direction:column; flex-direction:column; -ms-flex-pack:start; justify-content:flex-start;}
+.header-bottom-outer .header-btnbox { margin:30px 0 0 0;}
+.header-bottom-outer .header-btnbox .h-button { font-size:16px; line-height:1; padding:12px 25px;}
+/*============ Header End ============*/
+
+/*============ Login Page Start ============*/
+.login-outer .w3logo img { max-width:130px;}
+.pms-login-page { padding:50px 20px;}
+.login-outer .login-title h1 { font-size:28px; line-height:1.2; padding:25px 0 30px;}
+/*============ Login Page End ============*/
+
+/*============ Deshboard My-Tasks Page Start ============*/
+.admin-deshboard { padding:30px 15px;}
+.admin-deshboard-top .row { margin:0 -15px;}
+.admin-deshboard-top .row > [class*="col-"] { margin:0 0 30px 0; padding:0 15px;}
+.task-box { padding:20px 20px;}
+.task-box h4 { font-size:22px; padding:0 0 25px;}
+.task-box .task-sub-box .count { font-size:28px;}
+.current-box { padding:20px 20px;}
+.current-box .current-head { flex-direction:column;}
+.current-box .current-head h4 { font-size:22px;}
+.current-box .time-box { width:100%; margin:15px 0 0 0;}
+.current-box .time-box > span { font-size:22px; line-height:1; padding:0 12px 0 0;}
+.current-box .comment { font-size:16px; line-height:24px;}
+.task-listing { margin:0px;}
+.task-listing ul.head-task { display:none;}
+.task-listing ul.body-task li { font-size:14px; line-height:22px; border:none;}
+.task-listing ul.body-task li:nth-of-type(even) { background:#f7faff;}
+.task-listing ul.body-task li .tasklink { -ms-flex-direction:column; flex-direction:column; padding:0px;}
+.task-listing ul li .text-1,
+.task-listing ul li .text-2,
+.task-listing ul li .text-3,
+.task-listing ul li .text-4,
+.task-listing ul li .text-5,
+.task-listing ul li .text-6,
+.task-listing ul li .text-7,
+.task-listing ul li .text-8 { width:100%; border-bottom:1px solid #ECEEF5; padding:10px 20px;}
+.task-listing ul li .text-1:before,
+.task-listing ul li .text-2:before,
+.task-listing ul li .text-3:before,
+.task-listing ul li .text-4:before,
+.task-listing ul li .text-5:before,
+.task-listing ul li .text-6:before,
+.task-listing ul li .text-7:before,
+.task-listing ul li .text-8::before { content:attr(data-label); width:100%; display:block; font-family: 'Montserrat'; font-size:14px; color:#858BA0; font-weight:600; line-height:1; margin:0 0 5px 0;}
+.current-box .current-head{ align-items:flex-start;}
+.current-box .current-head h4{font-size:18px;}
+.dataTables_wrapper .dataTables_length { width:100%; border-bottom:1px solid #ECEEF5;}
+.dataTables_wrapper .dataTables_length label { font-size:14px;}
+.dataTables_wrapper .dataTables_length .custom-select { font-size:14px;}
+.dataTables_wrapper .dataTables_filter { width:100%;}
+.dataTables_wrapper .dataTables_filter label { font-size:14px;}
+.dataTables_wrapper .dataTables_filter .form-control { font-size:14px;}
+.dataTables_wrapper .dataTables_info { width:100%; font-size:14px; padding:10px 0 0 0 !important;}
+.dataTables_wrapper .dataTables_paginate { width:100%;}
+.dataTables_wrapper .dataTables_paginate .pagination { width:100%; overflow-x:auto; justify-content:flex-start !important;}
+.dataTables_wrapper .dataTables_paginate .pagination .paginate_button .page-link { font-size:14px; padding:10px 14px;}
+table.dataTable thead > tr > th { font-size:14px; padding:15px 15px;}
+table.dataTable tbody > tr > td { height:48px; font-size:14px; padding:10px 15px;}
+table.dataTable tbody > tr > td .text { max-width:300px;}
+table.dataTable tbody > tr.child ul.dtr-details { white-space:normal;}
+table.dataTable tbody > tr.child ul.dtr-details li { padding:10px 15px 10px 15px !important;}
+table.dataTable tbody > tr.child ul.dtr-details li .dtr-title { width:100%; font-size:14px; margin:0 0 5px 0;}
+table.dataTable tbody > tr.child ul.dtr-details li .dtr-data { width:100%; font-size:14px;}
+/*============ Deshboard My-Tasks Page End ============*/
+
+/*============ Deshboard My-Projects Page Start ============*/
+.project-details-listing .row { margin:0 -15px;}
+.project-details-listing .row > [class*="col-"] { margin:0 0 30px 0; padding:0 15px;}
+.project-box { padding:20px 20px;}
+.project-box .project-name h3 { padding:0 0 15px 0;}
+.project-box .project-meta { flex-direction:column;}
+.project-box .project-meta .project-meta-sub { width:100%;}
+.project-box .project-meta .project-meta-sub + .project-meta-sub { padding:20px 0 0 0;}
+.project-box .project-meta .project-meta-sub h6 { line-height:1.2; padding:0 0 5px 0;}
+/*============ Deshboard My-Projects Page End ============*/
+
+/*============ Deshboard-Admin Page Start ============*/
+.deshboard-adminside .deshboard-row { margin:0px -15px;}
+.deshboard-adminside .deshboard-row .deshboard-col { width:100%; margin:0 0 30px 0; padding:0px 15px;}
+.deshboard-adminside .deshboard-box { padding:20px 20px;}
+.deshboard-adminside .deshboard-box h4 { font-size:22px; margin:0 0 20px 0;}
+.deshboard-adminside .deshboard-box .count-num { font-size:28px;}
+/*============ Deshboard-Admin Page End ============*/
+
+/*============ View-Task-Sidebar Start ============*/
+.viewtask-sidebar { max-width:320px;}
+.viewtask-sidebar .viewtask-sidebar-block { padding:30px 15px;}
+.viewtask-sidebar .vtsidebar-topbar { padding:0 0 25px 0;}
+.viewtask-sidebar .vtsidebar-topbar .timebar .text { font-size:18px;}
+.viewtask-sidebar .vtsidebar-title { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-title h3 { font-size:18px;}
+.viewtask-sidebar .vtsidebar-assigndate { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-deadline { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-estimated { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-categories { padding:0 0 20px 0;}
+.viewtask-sidebar .vtsidebar-categories .cat-tags { font-size:16px;}
+.viewtask-sidebar .vtsidebar-taskdetail { padding:20px 0 0 0;}
+.viewtask-sidebar .vtsidebar-taskdetail .td-desc .descbox { padding:0 0 15px 0;}
+.viewtask-sidebar .vtsidebar-taskdetail .td-desc .descbox p { font-size:16px; word-break:break-word;}
+.viewtask-sidebar .vtsidebar-taskdetail .td-desc .descbox ul li { font-size:16px;}
+.viewtask-sidebar .vtsidebar-attached { padding:20px 0 10px 0;}
+.viewtask-sidebar .vtsidebar-comments { padding:20px 0 0 0;}
+.viewtask-sidebar .vtsidebar-comments .combox-wrap .combox-sub { padding:0px;}
+.viewtask-sidebar .vtsidebar-comments .combox-wrap .combox-hideshow { padding:0px;}
+/*============ View-Task-Sidebar End ============*/
+
+/* Add-Task-Modal Start */
+.task_modal .modal-body { padding: 50px 20px; }
+.choice_task_main .choice_task_blk a { min-width: 240px; }
+/* Add-Task-Modal End */
+
+/* Add New Task Start */
+.add_task_modal .modal-dialog { margin: 20px;min-height: calc(100% - 40px); }
+.form_add_tasks { padding: 20px 0 0 0; }
+.wrap_date_row { margin: 0 -15px; }
+.wrap_date_row .wrap_date_col { padding: 0 15px; }
+.wrap_date_row .wrap_date_col + .wrap_date_col { margin-top: 25px; }
+.input_wrap textarea.input_field { height: 200px; }
+.add_task_modal .modal-body { padding: 30px 15px; }
+.wrap_date_row { -ms-flex-wrap: wrap; flex-wrap: wrap; -ms-flex-direction: column; flex-direction: column; }
+.submit_wrap .submit_button { font-size: 16px; } 
+.add_task_modal h3 { font-size: 20px; }
+.task_form form > .row { margin: 0 -15px; }
+.task_form form > .row > [class^="col-"] { padding: 15px; -ms-flex: 0 0 100%;flex: 0 0 100%;max-width: 100%; }
+.file_list ,
+.file_input .file_label { margin: 0 10px 10px 0 !important; }
+/* Add New Task End */
+
+.viewtask-sidebar .vtsidebar-attached .attached-buttons{  width: 105%;; }
+.viewtask-sidebar .vtsidebar-attached .attached-buttons .ab-btnbox{ margin: 0 7px 7px 0;; }
+.viewtask-sidebar .vtsidebar-attached .attached-buttons .ab-btnbox .attached-btn{ padding: 0 12px; font-size: 12px;; }
+.deshboard-adminside .deshboard-box h4{ font-size: 17px;; }
+.deshboard-adminside .deshboard-row .deshboard-col{ margin: 0 0 16px; padding: 0 8px;; }
+.deshboard-adminside .deshboard-box .count-num{ font-size: 26px;; }
+.deshboard-adminside .deshboard-row .deshboard-col{ width: 50%;}
+.deshboard-adminside .deshboard-box{ padding: 12px;; }
+.task_modal .modal-dialog-centered{ max-width: 90%; width: 90%; margin-left: 5%; }
+.input_wrap .wrap_date_col .input_field{ width: 100%;}
+.error-404-block p { font-size:18px;}
+
+/*============ User-Profile Page Start ============*/
+.user-profile-title { margin:0 0 20px 0;}
+.user-profile-title h1 { font-size:26px;}
+.user-profile-main { padding:30px 20px;}
+.user-profile-left { width:100%;}
+.user-profile-left .profile-picture { width:100px; height:100px;}
+.user-profile-left .profile-action { margin:20px 0 0 0;}
+.user-profile-left .profile-action .button { font-size:14px;}
+.user-profile-form { width:100%; border-top:1px solid #e5e5e5; border-left:none; margin:30px 0 0 0; padding:30px 0 0 0;}
+.user-profile-form .form-submit { margin:0px;}
+.user-profile-form .form-submit .button { width:100%;}
+/*============ User-Profile Page End ============*/
+
+/*============ Add-New-User Page Start ============*/
+.deshboard-userside .row { margin:0px -15px;}
+.deshboard-userside .row > [class*="col-"] { margin:0 0 30px 0; padding:0px 15px;}
+.deshboard-userside .userbox { padding:20px 20px;}
+.deshboard-userside .userbox h4 { font-size:22px; margin:0 0 15px 0;}
+.deshboard-userside .userbox .count-num { font-size:28px;}
+/*============ Add-New-User Page End ============*/
+
+/*============ User-Modal Start ============*/
+.user-modal .modal-header .close { width:30px; height:30px; font-size:22px; border-radius:5px; top:10px; right:10px;}
+.user-modal .user-modal-alert h3 { font-size:20px;}
+/*============ User-Modal End ============*/
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+}
+
+@media (min-width: 240px) and (max-width: 567px) {
+
+}
